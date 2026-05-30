@@ -67,7 +67,18 @@ This project serves as an introductory example of task scheduling and multitaski
 | MONITOR_TASK | Normal | Print status message |
 
 ---
+## Output
 
+<img width="1112" height="716" alt="image" src="https://github.com/user-attachments/assets/d1fc6d61-be67-4a49-a3d0-ba9d028ad1d4" />
+
+## PuTTy Terminal Config
+
+<img width="628" height="656" alt="image" src="https://github.com/user-attachments/assets/c0ddf7e5-cb18-406f-a778-a12d60032977" />
+
+## PuTTy Terminal Output
+<img width="1112" height="716" alt="image" src="https://github.com/user-attachments/assets/09f1de34-8f3c-42da-9a57-2beb6e62508d" />
+
+---
 ## 📂 Project Structure
 
 ```text
