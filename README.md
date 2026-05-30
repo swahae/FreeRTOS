@@ -76,7 +76,7 @@ This project serves as an introductory example of task scheduling and multitaski
 <img width="628" height="656" alt="image" src="https://github.com/user-attachments/assets/c0ddf7e5-cb18-406f-a778-a12d60032977" />
 
 ## PuTTy Terminal Output
-<img width="1112" height="716" alt="image" src="https://github.com/user-attachments/assets/09f1de34-8f3c-42da-9a57-2beb6e62508d" />
+<img width="688" height="708" alt="image" src="https://github.com/user-attachments/assets/bf109b08-9e16-4cef-a427-26901e382ef2" />
 
 ---
 ## 📂 Project Structure
